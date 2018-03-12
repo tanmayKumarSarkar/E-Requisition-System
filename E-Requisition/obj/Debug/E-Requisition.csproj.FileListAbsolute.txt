@@ -1,0 +1,5 @@
+F:\My blog\project_e-Requisition\Project_Work\E-Requisition\E-Requisition\bin\E-Requisition.dll
+F:\My blog\project_e-Requisition\Project_Work\E-Requisition\E-Requisition\bin\E-Requisition.pdb
+F:\My blog\project_e-Requisition\Project_Work\E-Requisition\E-Requisition\obj\Debug\E-Requisition.dll
+F:\My blog\project_e-Requisition\Project_Work\E-Requisition\E-Requisition\obj\Debug\E-Requisition.pdb
+F:\My blog\project_e-Requisition\Project_Work\E-Requisition\E-Requisition\obj\Debug\E-Requisition.csprojResolveAssemblyReference.cache
